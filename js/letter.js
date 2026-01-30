@@ -28,29 +28,29 @@ Yes I'm possessive and jealous sometimes 🔥, but it's only because I care abou
 I want to be your safe place, your home, your everything. 🏠
 I hope this little letter 💌 brings a smile to your face and warmth to your heart. Because you deserve all the happiness in the world. 😌
 
-For my dearest Swara, ❤️
+For my dear Swara,  ❤️
 You are my forever, 🧡
 my reason to smile, 💛
-my heart's desire, 💚
-my one and only, 🩵
-my desire to love, 💙
-my endless joy, 💜
-my sweetest dream, 🤎
-my everything, 🖤
-my Rasmalai, 🩶
-my love, 🤍
-my life, 🩷
-my all, 💘
-my world, 🌍
-my universe, 🌌
-my Catwoman, 🐱💝
-my Kookie, 🍪💖
-my sunshine, 💗
-my moonlight, 🌙💞
-my star, ⭐💫💓
-my angel, 💕
-my soulmate, ♥️
-my twin flame, 🔥❣️
+my heart's desire,  💚
+my one and only,    🩵
+my desire to love,  💙
+my endless joy,     💜
+my sweetest dream,  🤎
+my everything,      🖤
+my Rasmalai,        🩶
+my love,            🤍
+my life,            🩷
+my all,             💘
+my world,           🌍
+my universe,        🌌
+my Catwoman,        🐱💝
+my Kookie,          🍪💖
+my sunshine,        💗
+my moonlight,       🌙💞
+my star,            ⭐💫💓
+my angel,           💕
+my soulmate,        ♥️
+my twin flame,      🔥❣️
 
 Forever yours,
 Your silly Batman 🤧💘✨🦇 
@@ -95,6 +95,9 @@ function startTyping() {
             } else {
                 textLetter.innerHTML += char;
             }
+
+            textLetter.parentElement.scrollTop = 
+            textLetter.parentElement.scrollHeight;
 
             index++;
         } else {
