@@ -28,14 +28,14 @@ Yes I'm possessive and jealous sometimes 🔥, but it's only because I care abou
 I want to be your safe place, your home, your everything. 🏠
 I hope this little letter brings a smile to your face and warmth to your heart. Because you deserve all the happiness in the world. 😌
 
-To my dearest Swara,
-You are my forever,
-my reason to smile,
-my heart's desire,
-my one and only,
-my desire to love,
-my endless joy,
-my sweetest dream,
+For my dearest Swara, ❤️
+You are my forever,🧡
+my reason to smile,💛
+my heart's desire,💚
+my one and only,🩵
+my desire to love,💙
+my endless joy,💜
+my sweetest dream,🤎🖤🩶🤍🩷💘💝💖💗💓💞💕♥️❣️💌
 my everything,
 my Rasmalai.
 
