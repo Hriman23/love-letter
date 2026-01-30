@@ -1,17 +1,31 @@
 // 💌 LETTER CONTENT (WITH FORMATTING)
-const letterContent = `Dear Love,
+const letterContent = `Swara, my dear Rasmalai,
+I made all this for you. Just so that I could see you smile. But sadly, I'm not there to see it right now.
+I know sometimes you might feel that I don't love you, or that I love you less. But that's not true at all. 
+I love you more than words can express. More than the stars love the night sky. More than the ocean loves the shore.
+I'll never ever leave you. No matter what happens, I'll always be by your side, loving you with all my heart.
+Every moment with you feels like a dream. Your smile is my most favorite thing in this world. (Yes even more favorite than your so hot waist 👉🏻👈🏻)
+Sometimes I don't always find the perfect words in the moment, but I hope this little surprise shows how much you mean to me
+You just EXIST and my world lights up. I feel happy. I think about you randomly throughout the day and it makes me smile.
+You inspire me to be better, love deeper, and believe in the magic of us. I believe we'll be together one day.
+If some small things make you smile, make you happy, then I want to do them for you. Always.
+Yes I'm possessive and jealous sometimes, but it's only because I care about you so much. I want to protect you from any hurt.
+I want to be your safe place, your home, your everything.
+I hope this little letter brings a smile to your face and warmth to your heart. Because you deserve all the happiness in the world.
 
-Every moment with you feels like a dream. Your smile is my favorite thing in this world.
-
-You inspire me to be better, love deeper, and believe in magic.
-
+To my dearest Swara,
 You are my forever,
-my reason to smile.
+my reason to smile,
+my heart's desire,
+my one and only,
+my desire to love,
+my endless joy,
+my sweetest dream,
+my everything,
+my Rasmalai.
 
 Forever yours,
-❤️
-
-Will you be mine?
+Your silly Batman
 `;
 
 // ELEMENTS
@@ -44,7 +58,7 @@ function startTyping() {
         } else {
             clearInterval(typingInterval);
         }
-    }, 30);
+    }, 50);
 }
 
 // 💌 OPEN LETTER
@@ -62,7 +76,7 @@ btnLetter.addEventListener("click", () => {
     }, 600);
 
     // TITLE TYPE
-    titleLetter.innerHTML = "To You 💌";
+    titleLetter.innerHTML = "A letter For You 💌";
     let tIndex = 0;
 
     // HEART + GIF ANIMATIONS (only once)
