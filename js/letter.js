@@ -26,22 +26,48 @@ Will you let me have the privilege to do all these things for my pretty princess
 
 Yes I'm possessive and jealous sometimes 🔥, but it's only because I care about you so much ❤️‍🩹. I want to protect you from any hurt. 🥺❤️
 I want to be your safe place, your home, your everything. 🏠
-I hope this little letter brings a smile to your face and warmth to your heart. Because you deserve all the happiness in the world. 😌
+I hope this little letter 💌 brings a smile to your face and warmth to your heart. Because you deserve all the happiness in the world. 😌
 
 For my dearest Swara, ❤️
-You are my forever,🧡
-my reason to smile,💛
-my heart's desire,💚
-my one and only,🩵
-my desire to love,💙
-my endless joy,💜
-my sweetest dream,🤎🖤🩶🤍🩷💘💝💖💗💓💞💕♥️❣️💌
-my everything,
-my Rasmalai.
+You are my forever, 🧡
+my reason to smile, 💛
+my heart's desire, 💚
+my one and only, 🩵
+my desire to love, 💙
+my endless joy, 💜
+my sweetest dream, 🤎
+my everything, 🖤
+my Rasmalai, 🩶
+my love, 🤍
+my life, 🩷
+my all, 💘
+my world, 🌍
+my universe, 🌌
+my Catwoman, 🐱💝
+my Kookie, 🍪💖
+my sunshine, 💗
+my moonlight, 🌙💞
+my star, ⭐💫💓
+my angel, 💕
+my soulmate, ♥️
+my twin flame, 🔥❣️
 
 Forever yours,
 Your silly Batman 🤧💘✨🦇 
 (Yea okay I won't go out after 10 PM 😭✨)
+(I'll stay being ONLY your Batman forever 🥺❤️)
+(P.S. I LOVE YOU SO MUCH MORE THAN YOU CAN IMAGINE 😭❤️💘✨)
+(P.P.S. PLEASE DON'T LEAVE ME EVER 🥺❤️💘)
+(P.P.P.S. YOU'RE THE BEST THING THAT EVER HAPPENED TO ME 🥺❤️💘)
+(P.P.P.P.S. I LOVE YOU TO THE MOON AND BACK 🥺❤️💘)
+(P.P.P.P.P.S. YOU'RE MY EVERYTHING 🥺❤️💘)
+(P.P.P.P.P.P.S. I CAN'T WAIT TO SEE YOU ONEDAY AND FINALLY HUG AND KISS YOU 🥺❤️💘)
+(P.P.P.P.P.P.P.S. PLEASE STAY SAFE AND HEALTHY FOR ME 🥺❤️💘)
+(P.P.P.P.P.P.P.P.S. I MISS YOU SO MUCH RIGHT NOW 🥺❤️💘)
+(P.P.P.P.P.P.P.P.P.S. TAKE CARE OF YOURSELF FOR ME! 🥺❤️💘)
+(P.P.P.P.P.P.P.P.P.P.S. YOU'RE THE LOVE OF MY LIFE 🥺❤️💘)
+(P.P.P.P.P.P.P.P.P.P.P.S. LASTLY, Mwah 🥺❤️💘)
+(P.P.P.P.P.P.P.P.P.P.P.P.S. I still want Chhoti Swara >~< ❤️💘✨)
 `;
 
 // ELEMENTS
