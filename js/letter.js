@@ -58,7 +58,7 @@ function startTyping() {
         } else {
             clearInterval(typingInterval);
         }
-    }, 55);
+    }, 50);
 }
 
 // 💌 OPEN LETTER
