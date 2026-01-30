@@ -54,20 +54,20 @@ my twin flame,      🔥❣️
 
 Forever yours,
 Your silly Batman 🤧💘✨🦇 
-(Yea okay I won't go out after 10 PM 😭✨)
-(I'll stay being ONLY your Batman forever 🥺❤️)
-(P.S. I LOVE YOU SO MUCH MORE THAN YOU CAN IMAGINE 😭❤️💘✨)
-(P.P.S. PLEASE DON'T LEAVE ME EVER 🥺❤️💘)
-(P.P.P.S. YOU'RE THE BEST THING THAT EVER HAPPENED TO ME 🥺❤️💘)
-(P.P.P.P.S. I LOVE YOU TO THE MOON AND BACK 🥺❤️💘)
-(P.P.P.P.P.S. YOU'RE MY EVERYTHING 🥺❤️💘)
-(P.P.P.P.P.P.S. I CAN'T WAIT TO SEE YOU ONEDAY AND FINALLY HUG AND KISS YOU 🥺❤️💘)
-(P.P.P.P.P.P.P.S. PLEASE STAY SAFE AND HEALTHY FOR ME 🥺❤️💘)
-(P.P.P.P.P.P.P.P.S. I MISS YOU SO MUCH RIGHT NOW 🥺❤️💘)
-(P.P.P.P.P.P.P.P.P.S. TAKE CARE OF YOURSELF FOR ME! 🥺❤️💘)
-(P.P.P.P.P.P.P.P.P.P.S. YOU'RE THE LOVE OF MY LIFE 🥺❤️💘)
-(P.P.P.P.P.P.P.P.P.P.P.S. LASTLY, Mwah 🥺❤️💘)
-(P.P.P.P.P.P.P.P.P.P.P.P.S. I still want Chhoti Swara >~< ❤️💘✨)
+(Yea Okay I Won't Go Out After 10 PM 😭✨)
+(I'll Stay Being ONLY Your Batman Forever 🥺❤️)
+(PS: I Love You So Much More Than You Can Imagine 😭❤️💘✨)
+(PS: Please Don't Leave Me Ever 🥺❤️💘)
+(PS: You're The BEST Thing That Ever Happened To Me Really 🥺❤️💘)
+(PS: I Love You To The Moon And Back 🥺❤️💘)
+(PS: You're My Everything 🥺❤️💘)
+(PS: I Can't Wait To See You One Day And Finally Hug And Kiss You 🥺❤️💘)
+(PS: Please Stay Safe And Healthy For Me 🥺❤️💘)
+(PS: I Miss You So Much Right Now 🥺❤️💘)
+(PS: Take Care Of Yourself For Me! 🥺❤️💘)
+(PS: You're The Love Of My Life 🥺❤️💘)
+(PS: LASTLY, Mwah 🥺❤️💘)
+(PS: I Still Want Chhoti Swara >~< ❤️💘✨)
 `;
 
 // ELEMENTS
